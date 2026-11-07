@@ -28,8 +28,15 @@ Linux, networking, and cybersecurity fundamentals.
 - DNS: 8.8.8.8
 
 ## Screenshots
-Screenshots of the lab setup and configuration
-are included in the screenshots folder.
+
+### 1. Kali Linux Desktop
+![Kali Linux Desktop](screenshots/kali-linux-desktop.png)
+
+### 2. IP Configuration
+![IP Configuration](screenshots/ip-configuration.png)
+
+### 3. VirtualBox Snapshot
+![VirtualBox Snapshot](screenshots/virtualbox-snapshot.png)
 
 ## Learning Outcomes
 - Understanding virtualization.
